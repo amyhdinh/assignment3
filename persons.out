@@ -1,0 +1,104 @@
+Processing persons.txt file
+	Record 1: Fellini|Federico|1
+		Last name: Fellini
+		First Name: Federico
+		Person Id: 1	Record 2: Noel|Magali|2
+		Last name: Noel
+		First Name: Magali
+		Person Id: 2	Record 3: Zanin|Bruno|3
+		Last name: Zanin
+		First Name: Bruno
+		Person Id: 3	Record 4: Maggio|Pupella|4
+		Last name: Maggio
+		First Name: Pupella
+		Person Id: 4	Record 5: Drancia|Armando|5
+		Last name: Drancia
+		First Name: Armando
+		Person Id: 5	Record 6: Mcbride|Jim|6
+		Last name: Mcbride
+		First Name: Jim
+		Person Id: 6	Record 7: Quaid|Dennis|7
+		Last name: Quaid
+		First Name: Dennis
+		Person Id: 7	Record 8: Barkin|Ellen|8
+		Last name: Barkin
+		First Name: Ellen
+		Person Id: 8	Record 9: Beatty|Ned|9
+		Last name: Beatty
+		First Name: Ned
+		Person Id: 9	Record 10: Persky|Lisa Jane|10
+		Last name: Persky
+		First Name: Lisa Jane
+		Person Id: 10	Record 11: Goodman|John|11
+		Last name: Goodman
+		First Name: John
+		Person Id: 11	Record 12: Ludlam|Charles|12
+		Last name: Ludlam
+		First Name: Charles
+		Person Id: 12	Record 13: Singleton|John|13
+		Last name: Singleton
+		First Name: John
+		Person Id: 13	Record 14: Gooding|Cuba Jr.|14
+		Last name: Gooding
+		First Name: Cuba Jr.
+		Person Id: 14	Record 15: Cube|Ice|15
+		Last name: Cube
+		First Name: Ice
+		Person Id: 15	Record 16: Fishburne|Larry|16
+		Last name: Fishburne
+		First Name: Larry
+		Person Id: 16	Record 17: Ferrell|Tyra|17
+		Last name: Ferrell
+		First Name: Tyra
+		Person Id: 17	Record 18: Chestnut|Morris|18
+		Last name: Chestnut
+		First Name: Morris
+		Person Id: 18
+
+Processing movies.txt file
+	Record 1: Amacord|1|1974|1
+		Movie Title: Amacord
+		Director Id: 1
+		Year Made: 1974
+		Movie Id: 1	Record 2: The Big Easy|6|1987|2
+		Movie Title: The Big Easy
+		Director Id: 6
+		Year Made: 1987
+		Movie Id: 2	Record 3: Boyz N the Hood|13|1991|3
+		Movie Title: Boyz N the Hood
+		Director Id: 13
+		Year Made: 1991
+		Movie Id: 3
+
+Processing acts_in.txt file
+	Record 1: 2|1
+		Person Id: 2
+		Movie Id: 1	Record 2: 3|1
+		Person Id: 3
+		Movie Id: 1	Record 3: 4|1
+		Person Id: 4
+		Movie Id: 1	Record 4: 5|1
+		Person Id: 5
+		Movie Id: 1	Record 5: 7|2
+		Person Id: 7
+		Movie Id: 2	Record 6: 8|2
+		Person Id: 8
+		Movie Id: 2	Record 7: 9|2
+		Person Id: 9
+		Movie Id: 2	Record 8: 10|2
+		Person Id: 10
+		Movie Id: 2	Record 9: 11|2
+		Person Id: 11
+		Movie Id: 2	Record 10: 12|2
+		Person Id: 12
+		Movie Id: 2	Record 11: 14|3
+		Person Id: 14
+		Movie Id: 3	Record 12: 15|3
+		Person Id: 15
+		Movie Id: 3	Record 13: 16|3
+		Person Id: 16
+		Movie Id: 3	Record 14: 17|3
+		Person Id: 17
+		Movie Id: 3	Record 15: 18|3
+		Person Id: 18
+		Movie Id: 3

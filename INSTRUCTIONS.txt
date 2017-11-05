@@ -1,0 +1,29 @@
+ahd150030
+INSTRUCTIONS
+PART 1
+	TASK 1:
+	1) Move part1_task1.sh to Mobaxterm files.
+	2) chmod +x part1_task1.sh
+	3) ./part1_task1.sh
+	TASK 2:
+	1) Move count2.pl to Mobaxterm files.
+	2) chmod +x part1_task1.sh
+	3) cd {to whatever directory to be tested}
+	4) ./count2.pl
+PART 2
+	TASK 1:
+	1) Move shellprog.c to Mobaxterm files.
+	2) gcc shellprog.c -o shellprog
+	3) ./shellprog
+	4) ENTER A COMMAND: {one to three commands in a pipe, do not put spaces before pipe}
+	TASK 2:
+	File redirection was not implemented
+PART 3
+	1) Move moviesprog.cpp, persons.txt, movies.txt, and acts_in.txt to Mobaxterm files.
+	2) g++ moviesprog.cpp -o moviesprog -lsqlite3
+	3) touch movie.db
+	4) ./moviesprog
+	TASK 1
+	Output was printed to persons.out file
+	TASKS 2, 3, 4
+	Output to console
